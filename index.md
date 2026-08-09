@@ -1,7 +1,4 @@
----
-title: # Alexander Herrera
----
-
+# Alexander Herrera
 
 Solutions Architect and AI Agents Developer based in Costa Rica.
 
